@@ -1,0 +1,23 @@
+h1 {
+  font-family: veranda;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+html {
+  background-color: black;
+  text-align: center;
+}
+h3 {
+  color: aquamarine;
+  font-size: 16px;
+}
+p {
+  color: gray;
+  font-size: 21px;
+  }
+h2 {
+  color: gray;
+  text-align: right;
+}
